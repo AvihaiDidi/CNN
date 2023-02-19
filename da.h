@@ -2,8 +2,8 @@
 	this code for defining an array of doubles, it's for convinience
 */
 
-#ifndef COMMANDLIST
-#define COMMANDLIST
+#ifndef DOUBLEARR
+#define DOUBLEARR
 
 typedef struct double_array {
 	int l;
